@@ -45,9 +45,8 @@ test = in_list
 #test = [1,9,10,3,2,3,11,0,99,30,40,50]
 i=0
 while i <len(test):
-  print(i)
   if test[i] == 99:
-    print(len(test))
+    print('i')
     print(i)
     break
   else:
