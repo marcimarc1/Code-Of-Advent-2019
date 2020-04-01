@@ -1,2 +1,3 @@
-# Code-Of-Advent-2019
-My Code of Advent solution 2019
+# Advent of Code  2019
+My Advent of Code solutions 2019
+https://adventofcode.com/2019/
